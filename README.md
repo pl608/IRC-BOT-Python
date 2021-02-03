@@ -1,5 +1,2 @@
-# IRC-Client-Python
-a python powered irc client
-# Doesnt Work
-# Compiling
-will be compiled into windows .exe in the future
+# Compiled
+nothing realy yet but this is where they wil be
